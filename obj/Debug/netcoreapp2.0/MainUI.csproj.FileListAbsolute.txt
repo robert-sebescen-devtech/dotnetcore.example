@@ -1,0 +1,10 @@
+d:\Projects\Practice\CompositeUI\MainUI\bin\Debug\netcoreapp2.0\MainUI.deps.json
+d:\Projects\Practice\CompositeUI\MainUI\bin\Debug\netcoreapp2.0\MainUI.runtimeconfig.json
+d:\Projects\Practice\CompositeUI\MainUI\bin\Debug\netcoreapp2.0\MainUI.runtimeconfig.dev.json
+d:\Projects\Practice\CompositeUI\MainUI\bin\Debug\netcoreapp2.0\MainUI.dll
+d:\Projects\Practice\CompositeUI\MainUI\bin\Debug\netcoreapp2.0\MainUI.pdb
+d:\Projects\Practice\CompositeUI\MainUI\obj\Debug\netcoreapp2.0\MainUI.csproj.CoreCompileInputs.cache
+d:\Projects\Practice\CompositeUI\MainUI\obj\Debug\netcoreapp2.0\MainUI.AssemblyInfoInputs.cache
+d:\Projects\Practice\CompositeUI\MainUI\obj\Debug\netcoreapp2.0\MainUI.AssemblyInfo.cs
+d:\Projects\Practice\CompositeUI\MainUI\obj\Debug\netcoreapp2.0\MainUI.dll
+d:\Projects\Practice\CompositeUI\MainUI\obj\Debug\netcoreapp2.0\MainUI.pdb
